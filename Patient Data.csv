@@ -1,0 +1,28 @@
+Doctor Name,Doctor ID,Patient Name,Patient ID,Admitted Date,Discharge Date,Treatment,Bill Payment,Patient Gender,Hospital Name,Hospital ID
+Sai,152,Swathi,118,01-Jan-21,03-Jan-21,Cancer,1500,Female,Apollo ,4346
+Rajesh,789,Surya,346,02-Jan-21,04-Jan-21,Tyroid,2500,Male,Global,5547
+Priya,158,Edward,542,03-Jan-21,05-Jan-21,Diabetes,4586,Male,Ozone,9752
+Ravi,212,Justin,465,04-Jan-21,06-Jan-21,Covid,2647,Male,Omni,2151
+Mahesh,545,Neetu,654,05-Jan-21,07-Jan-21,BP,2560,Female,Yashoda,9654
+Steve,566,Jack,544,06-Jan-21,08-Jan-21,General Checkup,7851,Male,KIMS,5465
+Johnson,454,Tylor,256,07-Jan-21,09-Jan-21,BP,2658,Female,NIMS,7986
+Albert,465,Teresa,545,08-Jan-21,10-Jan-21,Covid,6531,Female,Osmania,8723
+Joseph,250,Mathews,356,09-Jan-21,11-Jan-21,BP,7634,Male,AIG,4562
+Swathi,156,Linca,162,10-Jan-21,12-Jan-21,Tyroid,1679,Female,Rainbow,8974
+Khan,354,Anthony,216,11-Jan-21,13-Jan-21,Diabetes,1468,Male,Medical City,4696
+Fatima,362,Reha,470,12-Jan-21,14-Jan-21,General Checkup,6095,Female,Sai Krishna,7987
+Rakesh,216,Bhavani,652,13-Jan-21,15-Jan-21,Tyroid,4658,Female,Naveena,1256
+Sweety,465,Naresh,465,14-Jan-21,16-Jan-21,Covid,2356,Male,Sai Aditya,4753
+Tinku,265,Virat,235,15-Jan-21,17-Jan-21,General Checkup,1647,Male,Sapthagiri,8546
+Preeti,450,Deepika,612,16-Jan-21,18-Jan-21,Cancer,2365,Female,Supraja,6534
+Anne,542,Andrews,412,17-Jan-21,19-Jan-21,Tyroid,1423,Male,Geetha,8974
+Robert,345,Nihal,154,18-Jan-21,20-Jan-21,Diabetes,7892,Male,Care,7853
+Edward,215,Gayatri,465,19-Jan-21,21-Jan-21,Covid,4321,Female,Homeopathy,7984
+Tita,273,Rani,546,20-Jan-21,22-Jan-21,General Checkup,2301,Female,Texas Health Presbetarian,8974
+Maria,450,Madhu,324,21-Jan-21,23-Jan-21,Cancer,1336,Male,Coppell,8778
+Orlando,251,Umesh,546,22-Jan-21,24-Jan-21,Tyroid,6501,Male,Denton  Surgical,7452
+Uzma,215,Kajol,442,23-Jan-21,25-Jan-21,Diabetes,7135,Female,Atrium,6766
+Ganesh,351,Pratham,561,24-Jan-21,26-Jan-21,General Checkup,1385,Male,Mayhil,6876
+Daniel,265,Sam,495,25-Jan-21,27-Jan-21,Tyroid,2564,Male,Baylor Scott,6577
+Neha,655,Dharvin,456,26-Jan-21,28-Jan-21,Covid,1289,Male,Carrollton Methodist,7856
+Azeem,132,Vineet,541,27-Jan-21,29-Jan-21,General Checkup,1479,Male,Sagecrest,1514
